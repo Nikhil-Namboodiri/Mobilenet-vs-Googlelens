@@ -1,0 +1,47 @@
+.copy_right_footer{
+    position:fixed;
+    width: 100%;
+    bottom: 0;
+    color: blue;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: white;
+   }
+#googlelens{
+    width: 150px;
+    height: 150px;
+}
+#mobilenet{
+    width: 150px;
+    height: 150px;
+}
+#google_lens{
+    color: greenyellow;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#mobile_net{
+    color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#main_heading{
+    font-size: 90px;
+    font-weight: bolder;
+    color: orangered;
+    text-align: center;
+}
+
+body{
+    background-color: mediumturquoise;
+    text-align: center;
+}
+.test_image_and_result{
+    background-color: antiquewhite;
+    border-radius: 9px;
+    margin-bottom: 30px;
+    align-content: center;
+}
+#conclusion{
+    margin-bottom: 40px;
+}
